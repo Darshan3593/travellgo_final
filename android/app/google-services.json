@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451253816558",
+    "project_id": "travellgo-48d1a",
+    "storage_bucket": "travellgo-48d1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451253816558:android:1e5d7ea3ff8db5169637ff",
+        "android_client_info": {
+          "package_name": "com.dar.travellgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451253816558-p1ac56pp6c695vhac6mu31h730bdcfis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dar.travellgo",
+            "certificate_hash": "1a973f1bb8092424ca3c7a6e51e9e738ac776b30"
+          }
+        },
+        {
+          "client_id": "451253816558-glevkir7cbslmnj1jh4sbj63o232mt1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4qtKUa-71n5Aud9zzV4bQQu7lDxuqI6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451253816558-glevkir7cbslmnj1jh4sbj63o232mt1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
